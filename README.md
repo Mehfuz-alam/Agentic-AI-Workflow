@@ -13,7 +13,7 @@ Action – executes tasks based on the plan
 These components work together to enable AI agents to handle tasks ranging from simple Q&A to controlling complex systems.
 
 ## Workflow of AI Agents
-![Uploading image.png…]()
+<img width="850" height="472" alt="AI_AGENTS" src="https://github.com/user-attachments/assets/d8c6b6a4-f7a1-4afb-a473-eecacf25d123" />
 
 ### 1. Perception (Input Handling)
 Input Sources:
